@@ -11,7 +11,6 @@ class App extends Component {
   }
 
   setshow() {
-    console.log("hhahah");
     this.setState({
       show: true
     });
